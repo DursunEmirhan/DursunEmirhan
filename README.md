@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Emirhan</h1>
+<h3 align="center">Software Engineering Student | Software Development, Robotics, Embedded Systems, Cyber Security & System Administration</h3>
 
-<!--
-**DursunEmirhan/DursunEmirhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 What I work on Software development, robotic systems and embedded applications I develop applications using Python and C++, work on Arduino and ESP-based robotic projects, and focus on hardware–software integration and system-level implementations. [.](.)
 
-Here are some ideas to get you started:
+- 🛠 Technical Skills <br />🧠 Software Development Python – intermediate level application development C++ – intermediate level, performance-oriented and robotic applications HTML & CSS – basic to intermediate level Algorithmic thinking and problem solving Writing clean, modular and maintainable code <br /> 🤖 Robotics & Embedded Systems Arduino & ESP-based systems Working with sensors, motors and hardware components Hardware–software integration Robotics project and competition experience (Teknofest, MEB Robotics Competition) <br /> 🔐 Cyber Security Kali Linux – basic to intermediate level security tools Wireless networks and IoT security awareness Experience in a TÜBİTAK-supported Drone Hacking Project <br /> 🌐 Network & System Administration Routing & Switching (CCNA fundamentals) Basic to intermediate network management Windows system administration Active Directory Domain Controller Server & Virtualization VirtualBox Virtual machines and basic virtual server infrastructures **.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m looking to collaborate on Software development, robotics, embedded systems, cyber security and system administration projects I’m interested in team-based projects that focus on real-world systems and practical problem solving. [.](.)
+
+- 🤝 Areas I want to improve Robotic control systems, computer vision, network architectures and scalable software designs [.](.)
+
+- I started my technical journey with robotics projects in high school and continue to build my skills through hands-on work in software development, robotics, cyber security and system administration. I enjoy developing systems where hardware and software work together. **.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/emirhan-dursun-071224252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/emirhan-dursun-071224252" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
